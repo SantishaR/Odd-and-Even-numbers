@@ -7,3 +7,4 @@ function check()
       alert("odd number");
     }
 }
+check();
