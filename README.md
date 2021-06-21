@@ -4,8 +4,8 @@ In this project I created a simple function to find even and odd numbers. I made
 
 ## Project Screenshots
 
+![Project Screenshot](images/screenshot1.PNG)
 ![Project Screenshot](images/screenshot2.PNG)
-![Project Screenshot](images/screenshot3.PNG)
 ![Project Screenshot](images/screenshot4.PNG)
 ![Project Screenshot](images/screenshot5.PNG)
 
